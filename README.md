@@ -31,7 +31,7 @@
  
 3. Create directory structures as in `data_loaders.py`:
  - `bus_data/bus_stops.json` 
- - `bus_data/schedules/<DATA>/<NUMER-LINII>.json` -> if you are using helper script to download schedules you will need only copy pate downloaded files   
+ - `bus_data/schedules/<DATA>/<LINE-NUMBER>.json` -> if you are using helper script to download schedules you will need only copy pate downloaded files   
    
 4. Run `trip_assistance.py` script
 
